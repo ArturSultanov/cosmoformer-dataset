@@ -1,5 +1,7 @@
 # Cosmoformer Dataset
 
+Dataset repo with no pre-downloaded images: https://github.com/ArturSultanov/cosmoformer-dataset.
+
 ## Introduction
 
 This repository "Cosmoformer Dataset" contains dataset and pipeline, that was used to prepare dataset for model tratining. Both components are the parts of my Bachelor thesis at Brno Technical University (BUT).
@@ -74,3 +76,4 @@ Python `scikit-learn` and `pandas` packages have been used for data processing a
 1. Galaxy classification application: https://github.com/ArturSultanov/cosmoformer-application
 2. CosmoFormer model: https://github.com/ArturSultanov/cosmoformer-model
 3. CosmoFormer dataset: https://github.com/ArturSultanov/cosmoformer-dataset
+4. CosmoFormer dataset (no pre-downloaded images): https://github.com/ArturSultanov/cosmoformer-dataset-no-images
