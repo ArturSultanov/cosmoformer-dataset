@@ -1,6 +1,6 @@
 # Cosmoformer Dataset
 
-Dataset repo with no pre-downloaded images: https://github.com/ArturSultanov/cosmoformer-dataset.
+Dataset repo with no pre-downloaded images: https://github.com/ArturSultanov/cosmoformer-dataset-no-images.
 
 ## Introduction
 
