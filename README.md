@@ -20,6 +20,12 @@ This repository "Cosmoformer Dataset" contains dataset and pipeline, that was us
 
 ---
 
+## Installation and Prerequisites
+
+1. Install `Python 3.12` version.
+2. Install `Python` packages from <a href="requirements.txt">requirements.txt</a> file.
+3. Open <a href="dataset.ipynb"> `dataset.ipynb` </a> file and follow steps inside the Jupyter notebook.
+
 ## Dataset overview
 
 Galaxy Zoo 2 project has been used for dataset creation. Dataset represents a three subsets for training, validation and test phases.
